@@ -1,12 +1,22 @@
 # Christian Burk's Management README
 
 ## Who am I?
+"I’m the Dude. So that’s what you call me. You know, that or, uh, His Dudeness, or uh, Duder, or El Duderino if you’re not into the whole brevity thing.” - The Dude
+
+"So I pointed my fingers
+And shouted few quotes I knew
+As if something that's written
+Should be taken as true"
+Taylor Goldsmith for Dawes
+
+I have a tendency to want quote famous people, leaning on their fame to lend credibility to my points. But also to make it clear that so many of the things I think or have learned have been learned from elsewhere. Even though that is not exactly true. It's just that what I have read or heard that has resonated most with me are those statements that fit the evidence of my own first-hand experience. Plus, using other people's words to emphasize your points is like making Christmas cookies by coating in chocolate two Ritz crackers with peanut sandwiched between them. It's the combination of all these pre-made parts that goes so well together. Like Jason Derulo using the "Hide and Seek" sample by Imogene Heap in 'Watcha Say."
+
 First, human. And a student of the humanities before I was a technologist. That may be why I approach my work more as a person first in relation to another person.
 
-You are the most important thing to me when I am with you. It could be that you and I have entirely different backgrounds with no apparent similarities, but I will find you fascinating, nonetheless. Strangeness is no crime and no problem.
+You are the most important thing to me when I am with you. It could be that you and I have entirely different backgrounds with no apparent similarities, but I will find you fascinating, nonetheless. Strangeness is no crime and no problem. That does not mean I will always understand you or you, me. Sometimes, we will be opaque conundrums to each other. That's what questions are for. I hope you ask a lot of questions. I know I'm going to. I will ask questions of you, too. As somone who studied language before technology (and wrote many papers on a manual typewriter), I see questions as tools for investigating the system of an organization, a relationship or even the way you and I think about the world, our work or each other. 
 
 ## What do I value?
-More than anything else, I value kindness. I believe in the inherent goodness of people that can be better tapped by working as though you loved them and wanted what is best for them.
+More than anything else, I value honesty. After that, kindness. I don't believe that they have to be exclusive to each other. In fact, I would probably be the president of the diplomacy fanclub if I knew how to join, as I believe that the right message can make a point without making an enemy. I believe in the inherent goodness of people that can be better tapped by working with them and wanting what is best for them. That does not mean sugarcoating as much as contextualizing information to make sure that it is seen in its proper light.
 
 People do not want to be valued only for what they can do. They want first to be valued for who they are. After all, who they are preceded what they do as their capabilities developed and grew and will likely succeed what they can do as their capabilities wane. Who they are is the core issue. I believe if people know best who they are they will better perform in what they do. I want people to get lost in the world of thought but also to have a beacon that others can activate to bring them back home. 
 
@@ -63,5 +73,9 @@ I recently had a conversation with a senior developer. We were talking about how
 
 I value consitency and reliability, both of which can be indicative of integrity. I want my words and my actions to be well aligned and look for colleagues at work to be similarly aligned. If I say that I intend to do something and commit to it, I am going to take the steps necessary to maximize the likelihood of doing what I said I would do. I will also follow up about the status of that commitment, so that all of the interested and informed parties are aware of the current status. 
 
+
+
 ## Change gonna come
+Recently, I apologized to a person who reported to me, a person who most of the development team thinks of as a junior developer. We were having a one-on-one, and she asked me to compare her with another developer to explain why she is considered a junior developer but the other person is not. I described the difference in their education and different jobs before coming to their development positions. She pointed out that I missed a key portion of her experience that directly preceded her current job. I admitted that I had, in fact, forgot to consider her work in data engineering and SQL report development and apologized. It was humbling but was not the first time that I have had a blindspot illuminated for me. This occasional (and sometimes frequent) admonishment keeps me honest, and I am so happy to know that people have the 
+
 While I believe that much of the description above is both accurate and central to who I am as a manager, some of it has not always been so. Given that I have changed in the past, I will likely change in the future. It may even change because of interactions and knowledge gained or created while interacting with the readers of this document. They may challenge me to question my assumptions, conclusions and habits and cause me to adjust myself accordingly. That is the nature of impactful relationships and interactions. Conversely, this document may change not even because I have changed so much as because my ability to articulate the who, what and why of myself will have improved with a greater self-awareness or through a more faithful rendition of that awareness. In any case, this is not the final word and testimony about me as a manager. Like any scientific knowledge, it is the best model to fit the evidence I have today.
