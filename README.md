@@ -1,4 +1,4 @@
-# Christian Burk's Management README
+# Christian Burk's Manager README
 
 ## Checking my privelege (a disclaimer)
 Two facts have not altered throughout my adult life: I am white and male. These facts distort reality around me with a bubble of privilege that I try to recognize and question even as they alter what I perceive and how I am perceived. Privilege is easy to see during a traffic stop or job opportunity, but in most cases it is water to fish: invisible and noticeable only in its absence. When I encounter information that do not conform to what I "know," I investigate it and the assumptions that accompany my privilege so that my analysis is not unduly affected by whiteness or maleness. I sometimes even describe my thought process where my privilege and the world meet. 
